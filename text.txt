@@ -1,11 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is A0C6-3DE4
-
- Directory of C:\Users\Prateek\Desktop\MyProject
-
-24/10/2017  13:31    <DIR>          .
-24/10/2017  13:31    <DIR>          ..
-24/10/2017  13:25    <DIR>          .git
-24/10/2017  13:31                 0 text.txt
-               1 File(s)              0 bytes
-               3 Dir(s)  422,724,636,672 bytes free
+Change 1
